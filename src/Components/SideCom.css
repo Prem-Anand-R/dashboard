@@ -1,0 +1,82 @@
+.side-comp {
+    background-color: #F9FAFC;
+    border-radius: 0px 27px 0px 0px;
+
+}
+
+.side_title {
+    font-family: AvenirNext;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 0.3333333432674408px;
+    text-align: left;
+
+}
+
+.progress_text p {
+    font-weight: 500;
+    font-size: 13px;
+}
+
+.bottom_card_header {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0.34285715222358704px;
+    text-align: left;
+    color: #273240;
+
+
+}
+
+.bottom_card {
+    width: 250px;
+    height: 258px;
+    background-color: #EDF0F6;
+    border-radius: 20px;
+    position: relative;
+}
+
+.bottom_card_img1 {
+    position: absolute;
+    top: -20px;
+    left: 30px;
+    width: 84.15px;
+    height: 72.43px;
+
+}
+
+.bottom_card_img2 {
+    position: absolute;
+    top: -35px;
+    right: 20px;
+    width: 52.53px;
+    height: 93.29px;
+
+}
+
+.bottom_card button {
+    height: 45px;
+    top: 750px;
+    left: 1145px;
+    background-color: #101010;
+    color: #FFFFFF;
+    border-radius: 10px;
+    padding: 10px;
+    border: 0px;
+    width: 200px;
+    height: 45px;
+
+
+}
+
+.bottom_card_desc {
+    font-family: Poppins;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0.4285714328289032px;
+    text-align: left;
+
+}
